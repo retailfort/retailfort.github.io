@@ -1870,8 +1870,8 @@ footer {background:#3b3b3b;
     background: rgba(0, 0, 0, 0) url("../img/banner/home3-hero1.png") no-repeat scroll 0 0 / contain;
   height: 100%;
     position: absolute;
-    right: 0;
-   /* top: 22px;*/
+    right:0px;
+  /* top: 22px;*/
     width: 60%;
     z-index: 1;
 }
