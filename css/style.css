@@ -3820,4 +3820,4 @@ animation-delay: 1.9s;
     padding: 35px 0 35px;
 }
 .clrhead{color:#2196f3;font-size:15px;font-weight:700;}
-.bdrbox{border:2px dashed #2196f3;text-align:center;background-color: #efeeee;}
+.bdrbox{border:2px dashed #2196f3;text-align:center;background-color: #efeeee;padding-top:10px;padding-bottom:10px;}
