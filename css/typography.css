@@ -14,7 +14,7 @@ Table Of Contents
 */
 
 body {
-    font-family: 'Raleway', sans-serif;
+    font-family:open sans;
 }
 
 h1,
@@ -24,10 +24,10 @@ h4,
 h5,
 h6 {
     margin: 0;
-    font-family: 'Raleway', sans-serif;
+    font-family:open sans;
     font-weight: 700;
     color: #000;
-    letter-spacing: 1.5px;
+    /*letter-spacing: 1.5px;*/
 }
 
 h1 a,
@@ -37,7 +37,7 @@ h4 a,
 h5 a,
 h6 a {
     font-weight: inherit;
-    font-family: 'Raleway', sans-serif;
+    font-family:open sans;
 }
 
 h1 {
@@ -62,7 +62,7 @@ h3 {
 h4 {
     font-size: 20px;
     line-height: 27px;
-	margin-bottom: 10px;
+	/*margin-bottom: 10px;*/
 }
 
 h5 {
@@ -76,7 +76,7 @@ h6 {
 }
 
 p {
-   font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans",sans-serif;
     font-size: 14px;
     font-weight: normal;
     letter-spacing: 0;
@@ -89,7 +89,7 @@ p img {
 }
 
 span {
-      font-family: 'Raleway', sans-serif;
+      /*font-family: 'Raleway', sans-serif;*/
     /*font-family: 'Open Sans', sans-serif;*/
 }
 

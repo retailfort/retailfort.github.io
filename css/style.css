@@ -204,7 +204,7 @@ img {
 button,
 input,
 textarea {
-    letter-spacing: 1px;
+   /* letter-spacing: 1px;*/
 }
 
 
@@ -3680,7 +3680,7 @@ animation-delay: 1.9s;
 
 /* Wrapper */
 .icon-button {
-	background-color:#595959;
+	background-color:none;
 	/*border-radius: 3.6rem;*/
 	cursor: pointer;
 	display: inline-block;
@@ -3694,6 +3694,7 @@ animation-delay: 1.9s;
 	   -moz-user-select: none;
 	    -ms-user-select: none;
 	        user-select: none;
+			border: 1px solid #9d9d9d;
 	width:30px;
 }
 
@@ -3744,14 +3745,14 @@ animation-delay: 1.9s;
 	color:#fff;
 	height:30px;
 	left: 0;
-	line-height:30px;
+	line-height:29px;
 	position: absolute;
 	top: 0;
 	-webkit-transition: all 0.3s;
 	   -moz-transition: all 0.3s;
 	     -o-transition: all 0.3s;
 	        transition: all 0.3s;
-	width:30px;
+	width:29px;
 	z-index: 10;
 }
 
@@ -3762,14 +3763,14 @@ animation-delay: 1.9s;
 	color: white;
 	height:30px;
 	left: 0;
-	line-height:30px;
+	line-height:29px;
 	position: absolute;
 	top: 0;
 	-webkit-transition: all 0.3s;
 	   -moz-transition: all 0.3s;
 	     -o-transition: all 0.3s;
 	        transition: all 0.3s;
-	width:30px;
+	width:29px;
 	z-index: 10;
 }
 
